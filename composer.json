@@ -1,0 +1,14 @@
+{
+    "name": "wilder/composer_challenge",
+    "authors": [
+        {
+            "name": "calouvts",
+            "email": "pascalevetois@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
