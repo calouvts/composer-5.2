@@ -6,4 +6,4 @@ echo $helloworld->talk();
 
 
 $Hello = new \HelloWorld\SayHello();
-echo $message2->world();
+echo $Hello->world();
